@@ -1,4 +1,4 @@
-# Security Analyst Interview Questions
+# SOC Analyst Interview Questions
 
 ## Technical Questions
 
