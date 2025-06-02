@@ -127,3 +127,19 @@ Hashing is the process of converting data into a fixed-size string or value usin
 Examples of Encoding: ASCII, Unicode, UTF-8, Base64, etc.
 Examples of Encryption: AES, DES, RSA, Blowfish, etc.
 Examples of Hashing: bcrypt, MD5, SHA-1, SHA-256, etc.
+
+**15. What is Three Way Handshake**
+
+The TCP three-way handshake is used to establish a reliable connection between a client and a server before any data is transferred. It ensures both sides agree on sequence numbers and are ready for communication.
+
+Steps:
+SYN (Synchronize):
+The client sends a SYN packet to the server with its initial sequence number (ISN). This starts the connection request.
+
+SYN-ACK (Synchronize-Acknowledge):
+The server replies with a SYN-ACK packet. It acknowledges the client’s ISN (by sending ACK = ISN + 1) and includes its own ISN.
+
+ACK (Acknowledge):
+The client sends a final ACK, acknowledging the server’s ISN (ACK = server’s ISN + 1).
+
+After this, the connection is established, and data can start flowing in both directions.
