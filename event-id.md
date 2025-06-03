@@ -120,6 +120,15 @@ This document provides a comprehensive reference for Windows Event IDs commonly 
 - Sysmon Event 3 provides detailed network connection information
 - Sysmon Event 1 offers enhanced process creation details beyond Event 4688
 
+**Memorize Event IDs 1, 3, 10, 11, 7, and 8 especially:**
+
+- 1 = Process Create
+- 3 = Network Connection
+- 10 = Process Access (often used for LSASS dumping)
+- 8 = CreateRemoteThread (code injection)
+- 11 = File Create
+- 7 = Image Loaded (DLLs loaded)
+
 ---
 
 ## Kerberos & Active Directory
