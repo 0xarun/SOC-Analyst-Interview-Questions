@@ -58,12 +58,12 @@
 *   **Feature Request / Feedback:**
     
 
-)Sass  suggestion has been forwarded to the relevant team. We continuously strive to improve our services.`  
+`    Your suggestion has been forwarded to the relevant team. We continuously strive to improve our services.`  
 
 *   **Payment/Billing:**
     
 
-)Sass  team is reviewing your account. The issue will be resolved within [X] working days.`  
+`    Our team is reviewing your account. The issue will be resolved within [X] working days.`  
 
 *   **Delay/Update:**
     
