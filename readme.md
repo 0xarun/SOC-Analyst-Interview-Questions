@@ -1,5 +1,7 @@
 # SOC Analyst Interview Questions & Answers
 
+> Reference lab setup: https://github.com/0xarun/Blueteam-C2-Detection
+
 ## Table of Contents
 - [Role & Responsibilities](#role--responsibilities)
 - [Technical Fundamentals](#technical-fundamentals)
@@ -360,3 +362,4 @@ During a ransomware simulation, EDR alerts spiked and we suspected a live attack
 ---
 
 *This guide covers essential SOC Analyst interview topics. Practice these scenarios and stay updated with current threat landscape for successful interviews.*
+
