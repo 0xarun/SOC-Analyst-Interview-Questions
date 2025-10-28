@@ -2,8 +2,6 @@
 # SOC - FortiGate Firewall & Kubernetes Security Monitoring Guide
 
 > **Note:** This document focuses on what a SOC Analyst needs to know for **real-world monitoring**, **alert triage**, and **incident correlation** involving **FortiGate Firewalls** and **Kubernetes clusters**.  
-> Practical understanding > theory.
-
 ---
 
 ## 🧱 1. FortiGate Firewall (Network Security Source)
